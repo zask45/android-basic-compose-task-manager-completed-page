@@ -2,7 +2,6 @@
 
 Page of task manager that inform all the tasks are done. Part of Practice Set in Android Basics With Compose Codelab. Build with Compose.
 
-## Notes
 
 ### Application Architecture
 ---
